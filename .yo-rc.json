@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.15.0",
+    "sdksVersions": {},
+    "version": "1.21.0",
+    "libraryName": "faq",
+    "libraryId": "d33ea544-950c-4cad-aca6-999c0243fcb2",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "FAQ",
+    "solutionShortDescription": "FAQ description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
